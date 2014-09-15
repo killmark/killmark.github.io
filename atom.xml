@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://killmark.github.io/atom.xml" rel="self"/>
   <link href="http://killmark.github.io/"/>
-  <updated>2014-09-14T22:14:19-07:00</updated>
+  <updated>2014-09-14T22:17:42-07:00</updated>
   <id>http://killmark.github.io/</id>
   <author>
     <name><![CDATA[killmark]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://killmark.github.io/blog/2014/07/06/first-post/"/>
-    <updated>2014-07-06T13:43:01-07:00</updated>
-    <id>http://killmark.github.io/blog/2014/07/06/first-post</id>
+    <link href="http://killmark.github.io/blog/2014/09/14/first-post/"/>
+    <updated>2014-09-14T13:43:01-07:00</updated>
+    <id>http://killmark.github.io/blog/2014/09/14/first-post</id>
     <content type="html"><![CDATA[<p>This is the first post of my new blog hosted on Github using Octopress. Hopefully I can write more articles on this new blog so I can keep myself thinking. Probably I should give a good name for this blog first:)</p>
 
 <p>Now I haven&rsquo;t pushed my source branch to the repository in Github. If I just want to post the articles, maybe I don&rsquo;t need to do that. But I am not sure whether <a href="https://github.com/lucaslew/whitespace">whitespace</a> supports Chinese characters well, so I may have to do some modifications in the future.</p>
