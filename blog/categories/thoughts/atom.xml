@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://killmark.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Thoughts | My Octopress Blog]]></title>
+  <link href="http://killmark.github.io/blog/categories/thoughts/atom.xml" rel="self"/>
   <link href="http://killmark.github.io/"/>
   <updated>2014-09-14T22:14:19-07:00</updated>
   <id>http://killmark.github.io/</id>

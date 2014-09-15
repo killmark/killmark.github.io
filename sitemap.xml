@@ -3,9 +3,9 @@
   
   
   <url>
-    <loc>http://killmark.github.io/blog/2014/09/14/first-post/</loc>
+    <loc>http://killmark.github.io/blog/2014/07/06/first-post/</loc>
     
-    <lastmod>2014-09-14T21:40:49-07:00</lastmod>
+    <lastmod>2014-07-06T13:43:01-07:00</lastmod>
     
     <priority>0.8</priority>
   </url>
@@ -13,14 +13,14 @@
   
   <url>
     <loc>http://killmark.github.io/blog/archives/</loc>
-    <lastmod>2014-09-14T21:57:32-07:00</lastmod>
+    <lastmod>2014-09-14T22:14:19-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://killmark.github.io/</loc>
-    <lastmod>2014-09-14T21:57:32-07:00</lastmod>
+    <lastmod>2014-09-14T22:14:19-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
