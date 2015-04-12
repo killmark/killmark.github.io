@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Factotum]]></title>
-  <link href="http://killmark.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Cars | Factotum]]></title>
+  <link href="http://killmark.github.io/blog/categories/cars/atom.xml" rel="self"/>
   <link href="http://killmark.github.io/"/>
   <updated>2015-04-11T22:00:25-07:00</updated>
   <id>http://killmark.github.io/</id>
@@ -51,17 +51,6 @@
 <p>&ldquo;And it is red with a Micky Mouse on the top of aerial&rdquo;, he added.</p>
 
 <p>One month later, I took this car, and it became the first car in my life. And the first modification I did on my car is that, I got rid of that stupid Micky Mouse.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://killmark.github.io/blog/2014/09/14/first-post/"/>
-    <updated>2014-09-14T13:43:01-07:00</updated>
-    <id>http://killmark.github.io/blog/2014/09/14/first-post</id>
-    <content type="html"><![CDATA[<p>This is the first post of my new blog hosted on Github using Octopress. Hopefully I can write more articles on this new blog so I can keep myself thinking. Probably I should give a good name for this blog first:)</p>
-
-<p>Now I haven&rsquo;t pushed my source branch to the repository in Github. If I just want to post the articles, maybe I don&rsquo;t need to do that. But I am not sure whether <a href="https://github.com/lucaslew/whitespace">whitespace</a> supports Chinese characters well, so I may have to do some modifications in the future.</p>
 ]]></content>
   </entry>
   
